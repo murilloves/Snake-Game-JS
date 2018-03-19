@@ -1,2 +1,2 @@
 # Snake-Game-JS
-An 'Snake' Game made with JS, HTML and CSS
+A cool 'Snake' Game made with JS, HTML and CSS
